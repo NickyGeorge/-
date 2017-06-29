@@ -1,0 +1,1 @@
+今天看了一下DeepID的相关论文（卷机网络CNN）大致对人脸识别的处理流程有了一个了解，但是具体的方法细节以及一些公式什么的还是不懂的。-2017-6-29 in shanghai film group 14th office room。
